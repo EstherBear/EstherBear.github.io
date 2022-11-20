@@ -5,6 +5,7 @@ description:         'A reserved <a href="https://jekyllrb.com" target="_blank">
 url:                 https://estherbear.github.io/
 baseurl:             ''
 paginate:            5
+paginate_path:       '/blogs/page:num'
 permalink:           pretty
 
 # About/contact
