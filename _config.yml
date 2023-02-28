@@ -7,6 +7,7 @@ baseurl:             ''
 paginate:            5
 paginate_path:       '/blogs/page:num'
 permalink:           pretty
+timezone:            Asia/Shanghai
 
 # About/contact
 author:
