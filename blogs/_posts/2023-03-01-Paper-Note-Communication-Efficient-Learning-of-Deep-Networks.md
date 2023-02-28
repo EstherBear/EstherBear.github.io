@@ -63,6 +63,6 @@ $$
 
 <img src="https://cdn.jsdelivr.net/gh/EstherBear/PictureBed@master/img/image-20230227030727658.png" alt="image-20230227030727658" style="zoom:50%;" />
 
-其实只要B大到可以充分利用移动设备硬件提供的并行度，那么减少B是不会增加额外计算量的。
+其实只要保证B大到可以充分利用移动设备硬件提供的并行度，那么减少B在增加本地更新次数的同时，是不会增加额外计算时间的。
 
 作者还猜测这样做model averaging可以有regularization的效果，不过还有待商榷。
