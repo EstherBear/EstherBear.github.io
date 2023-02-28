@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Note - Communication-Efficient Learning of Deep Networks
+title: Paper Note - Communication-Efficient Learning of Deep Networks from Decentralized Data
 ---
 
 ## Introduction
