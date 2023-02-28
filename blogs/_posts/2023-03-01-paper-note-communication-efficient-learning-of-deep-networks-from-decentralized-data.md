@@ -66,3 +66,7 @@ $$
 其实只要保证B大到可以充分利用移动设备硬件提供的并行度，那么减少B在增加本地更新次数的同时，是不会增加额外计算时间的。
 
 作者还猜测这样做model averaging可以有regularization的效果，不过还有待商榷。
+
+## References
+1. https://www.bilibili.com/video/BV1YK4y1G7jw?p=7
+2. https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf
