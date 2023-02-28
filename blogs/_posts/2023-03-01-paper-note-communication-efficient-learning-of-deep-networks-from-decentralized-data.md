@@ -57,11 +57,11 @@ $$
 
 控制B、E相同，调C：
 
-<img src="https://cdn.jsdelivr.net/gh/EstherBear/PictureBed@master/img/image-20230227030533010.png" alt="image-20230227030533010" style="zoom:50%;" />
+<center><img src="https://cdn.jsdelivr.net/gh/EstherBear/PictureBed@master/img/image-20230227030533010.png" alt="image-20230227030533010" style="zoom:50%;" /></center>
 
 控制C相同，调不同的B、E：
 
-<img src="https://cdn.jsdelivr.net/gh/EstherBear/PictureBed@master/img/image-20230227030727658.png" alt="image-20230227030727658" style="zoom:50%;" />
+<center><img src="https://cdn.jsdelivr.net/gh/EstherBear/PictureBed@master/img/image-20230227030727658.png" alt="image-20230227030727658" style="zoom:50%;" /></center>
 
 其实只要保证B大到可以充分利用移动设备硬件提供的并行度，那么减少B在增加本地更新次数的同时，是不会增加额外计算时间的。
 
